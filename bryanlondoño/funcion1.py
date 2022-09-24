@@ -1,4 +1,1 @@
-
 #FUNCIONES EN PYTHON
-
-
