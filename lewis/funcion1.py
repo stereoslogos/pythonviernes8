@@ -4,4 +4,4 @@ def saludarPersona(nombre):
 
 #se llama
 nombre="Lewis"
-saludarPersona("Lewis")
+saludarPersona("Lewis ok")
